@@ -9,8 +9,8 @@ import java.util.ArrayList;
  */
 
 public class App_Constants {
-    static String PROJECT_ID = "613373758564";
-    static String API_KEY = "key=AIzaSyBLFO8Bl0KxdWcraIdA1rEKPLCdc6KpmR0";
+    static String PROJECT_ID = "Your project ID";
+    static String API_KEY = "key=Enter API KEY";
     static ArrayList<String> all_tokens = new ArrayList<String>();
     static ArrayList<notificationGroup> groups = new ArrayList<>();
     static String TESTING = "FirebaseMessagingTesting";
