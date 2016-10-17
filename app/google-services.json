@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613373758564",
+    "firebase_url": "https://bse-test-ccaf2.firebaseio.com",
+    "project_id": "bse-test-ccaf2",
+    "storage_bucket": "bse-test-ccaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613373758564:android:ac4831723f42e508",
+        "android_client_info": {
+          "package_name": "viraj.com.bse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613373758564-pog9evsaecqgbefaf7l62irifopav4ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "viraj.com.bse",
+            "certificate_hash": "4571D8FD0ABD9F01A511B9D3ABEBF21635A6061D"
+          }
+        },
+        {
+          "client_id": "613373758564-4o8usks23t37m8gie2g7hdpvo3csl9fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DEceY8ypWRQcon_dVEVKQtvPhFWNtEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613373758564-4o8usks23t37m8gie2g7hdpvo3csl9fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

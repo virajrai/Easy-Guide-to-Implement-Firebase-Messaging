@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.0_a588465b17e17ef29551f994424542a1f72fd048\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.0_b426aa39b4997e49d53403f3a7d4395ca53db627\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.0_2e70e719ff68043659755dba50c95241366a3e85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_78fa34e664a9890862a672588717368ffef9737a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd82c557ab4d9db5ce89a1e0ee77bd6ab7771df5">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2e9138303eda0eadb16f1bc519e4154110784ce6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.0_feb5373ff937e84704e971ee91f0ded9481b7f77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.0_4851e87ca974891fe9f37eb8472374ae282dbd2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.0_748934c1c6a53d1d847f324f5f4d29ecda10fefc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.0_9a7e3b592fe6b6cc8cb19d9ef25e2fa7604b8e11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_5859e8c26241627ba2016c8eb17f65de49457f29\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\libs\junit-4.12.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\2\junit-4.12_215833711f4c1667c62b07cd59be6a30002e0251\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.0_c4879486e7925a24266ddc426ec99c0d40616b58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.0_837d8f1eccd9ad4697b61fc9aa2942a97489fb19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.0_52586873f78dacca5926b3fb423b2605dc151f5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.0_69465f3d824449ae34bfef96543b3f9a897b7171\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.0_cc0d6c31c20b1d94a8c64a4b6d1ed48767d866ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.0_0f55dbec53145c40e74a5c73b58c6b795a44daf0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.0_a5dfd6ca7e37e95029f19c3953bc83d6e1aabc20\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.0_13be71eae56aa349d6a1dc683a5ba160c7349cb3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.0_fc5dbc4220ddb5049d5d349516ec45746dd0a929\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.0_5e1aaa8d000e3e7af5b03a375c56156f66697811\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.0_e9fe73929906246b204f0555ec6485cc8a76b8af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.0_88bb6a9ae862f26603035a38be36ef5d36575cdd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.0_3724c2aaa92c23cd01f8a195fe3a75bdbb16f282\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.0_4e4e0fe4b42c4c255b5260c3bc0e6dab3b6f9102\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.0_6d5963c5c16873b0f0e3b6390493e1d65dba6841\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.0_7aeb4550b94b01e51512a0e1df8f05a7daa0e282\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.0_f13b329abd75af14f6a4bc2e58320a7a56280277\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.0_97530054b48aeaa28d89190594c50d23c32a862f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.0_1491c87182e98d85657aa4af0f0fe4c32ba0882f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.0_40ec6b48e24ecbc2ecf1c601b98375b17754655e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.0_280934c0a3e0d3bda945d694f382b896770390f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.0_340f1d4670e360c2a786cef9816c71d29572c88b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.0_25734ead010a58519306e7783137b510166a9e3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.0_1c9e702cd7416423d9ed5d82b4e5fb4342e9798c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.0_c795dcd550ddbb544d48bdb162085c59fb7661b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.0_59a9445bcdad3cd547c97984ee8e0df2fdcbcec7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="18a8e04997a0850b53a8b1acb89993788286ec71">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a5a44f60b1602c1767fbc982917b20dfc885d6a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_fc1f38c50379157dbc05984e8997fd900ebd03ef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_e6816886979770793c793ddf342bf94cb3553958\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.0_c374d8b87435b4ce69f808e8bcd2cb15ac33571e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_dfecb039b34b7fefdc96734559d4bf99d821f393\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.0_f70d77ead2bac7f44d7a716bb45ac6af8adce3e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.0_04629bf1f87208f69fb0edb7d0a141997a11a1fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.0_2f76677ef2098377e0a26e9d4206d003acb27035\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.0_47f27eb19e6b69561d9a35baadcf7d8bfb2c20b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_db4c26b832d120766bd0afd188515df42686d770\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.0_e42079ab3878ff0a26186ca2751d4785534b73cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.0_bfd22b67028d57c7b940f253d920dfd04c75ab48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.0_f310f8007ae2eb18e291bee0921690b4a56d51a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.0_64cb19479378c7d463f6446d4776a4d83546afe8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.0_350f4a182987009a81ec83dcc8867360384d8c76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.0_dc6b06f7ac9bdafe06709818e00c142b34f39a72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_b3713ac7f2767b082d7614af5145027ba73bdf8d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.0_f13e9e7855c399ebb4c041f8d53bf329a3e62f80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.0_4d242c45d9d51cf6144527708047f65eecb6567a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.0_a3cb02b94217653feb673c2f680cba8e785cc02d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="C:\Users\raisa\AndroidStudioProjects\BSE\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.0_7f9444d36f3be48ffe269d5be885c6a3c6d84286\classes.dex" />
+    </item>
+
+</items>
